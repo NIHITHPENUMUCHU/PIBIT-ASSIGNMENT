@@ -17,6 +17,7 @@ Expected JSON format:
         "Phone": "123-456-7890",
         "LinkedIn": "https://www.linkedin.com/in/username/"
     },
+    
     "Education": [
         {
             "Degree": "Degree Name",
@@ -24,6 +25,7 @@ Expected JSON format:
             "Graduation Year": "Year"
         }
     ],
+    
     "Experience": [
         {
             "Job Title": "Title",
@@ -32,5 +34,6 @@ Expected JSON format:
             "Responsibilities": ["Responsibility 1", "Responsibility 2"]
         }
     ],
+    
     "Skills": ["Skill 1", "Skill 2", "Skill 3"]
 }
