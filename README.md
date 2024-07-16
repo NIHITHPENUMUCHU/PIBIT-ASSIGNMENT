@@ -6,12 +6,14 @@ Share Github Link of the solution if possible.
 Here is an example of the ChatGPT prompt you could use to parse a resume into JSON format:
 
 Given the following resume, parse the content and return it in JSON format:
-
-[Resume Content Here]
-
-Expected JSON format:
-{
-    "Name": "Full Name",
+  
+  [Resume Content Here]
+  
+  Expected JSON format:
+  
+  {
+  
+      "Name": "Full Name",
     "Contact Information": {
         "Email": "email@example.com",
         "Phone": "123-456-7890",
@@ -36,4 +38,5 @@ Expected JSON format:
     ],
     
     "Skills": ["Skill 1", "Skill 2", "Skill 3"]
+    
 }
